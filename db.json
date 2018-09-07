@@ -1,0 +1,26 @@
+{
+  {
+    "name": "Jake Peralta",
+    "email": "diehardfan@99.com",
+    "rides": 14,
+    "status": true,
+  },
+  {
+    "name": "'Gina Linetti'",
+    "email": "'gina@99.com'",
+    "rides": 12,
+    "status": false,
+  },
+  {
+    "name": "'Amy Santiago'",
+    "email": "'sgtAmy@99.com'",
+    "rides": 1,
+    "status": true,
+  },
+  {
+    "name": "'Charles Boyle'",
+    "email": "'ItsNikolaj@99.com'",
+    "rides": 4,
+    "status": false,
+  },
+}
