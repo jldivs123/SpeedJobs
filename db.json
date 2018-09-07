@@ -1,4 +1,4 @@
-{
+[
   {
     "name": "Jake Peralta",
     "email": "diehardfan@99.com",
@@ -23,4 +23,4 @@
     "rides": 4,
     "status": false,
   },
-}
+]
